@@ -15,3 +15,14 @@ Earned Value Management
 PV: 予定出来高、EV: Earned Value: 実際の出来高、AC: かかったコスト
 <img width="422" height="233" alt="image" src="https://github.com/user-attachments/assets/9e359076-4a54-4548-9b47-b17293d02cee" />
 
+PV > AC > EVなら、予定より遅れて、コストもかかっている。コストは、現在のEVに対して高い（上にある）。
+
+## インシデントと問題の違い
+- インシデント：実際に起きた障害、不具合
+- 問題：インシデントを引き起こしている原因
+
+## DSP
+Digital Signal Processor、デジタル信号処理のためのプロセッサ  
+- 積和計算が得意
+- 信号処理
+- デジタルフィルタ
